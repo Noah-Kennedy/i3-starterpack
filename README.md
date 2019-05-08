@@ -95,7 +95,7 @@ If i3-wm, dunst, i3lock, i3status, and suckless-tools are not installed automati
 I set my Print Screen button to take screenshoot using scrot, then automatically open it using Viewnior image viewer. <br />
 
 ## Copying Congifurations
-`git clone https://github.com/addy-dclxvi/i3-starterpack.git` <br />
+`git clone https://github.com/Noah-Kennedy/i3-starterpack.git` <br />
 
 Or if You don't have git package installed, and have no willing to install it. 
 Just use download as zip button on the top-right of this page, then extract it.
@@ -106,7 +106,7 @@ Do the same with all of the files inside *i3-starterpack* folder.
 My dotfiles contains font, so refresh your fontconfig cache `fc-cache -fv` after You copy the font. <br />
 
 **Note :** You can deploy this repository recursively using 
-`git clone https://github.com/addy-dclxvi/i3-starterpack.git && cp -a i3-starterpack/. ~`
+`git clone https://github.com/Noah-Kennedy/i3-starterpack.git && cp -a i3-starterpack/. ~`
 but I recommend You to copy the configuration files one by one to make yourself have more control.
 
 ## Inspect and Edit The Configurations Files
